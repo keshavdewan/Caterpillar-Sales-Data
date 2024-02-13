@@ -1,3 +1,5 @@
+
+![CAT](https://github.com/keshavdewan/Caterpillar-Sales-Data/blob/a31371aae938e9970b8bd25f495775d2d2846c2d/CAT.png)
 # Caterpillar-Sales-Data
 The following repository contains fictional sales data from a region for a large multi-national company that produces and sells various products and services for the construction, mining, energy and transportation industries company.
 
